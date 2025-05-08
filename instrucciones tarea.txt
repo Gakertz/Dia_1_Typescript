@@ -1,0 +1,15 @@
+Día 1: Proyecto TypeScript – Inventario de prendas
+Objetivo: Practicar tipos, interfaces y clases.
+
+Proyecto:
+Crea una app en consola que gestione un inventario básico de ropa.
+
+Características:
+Define una interfaz Prenda con nombre, talla, tipo (camisa, pantalón), y estado (nuevo/usado).
+
+Agrega funciones para:
+Listar prendas
+Agregar nuevas prendas
+Buscar por tipo
+
+Extra: Usa clases para crear instancias de prendas.
