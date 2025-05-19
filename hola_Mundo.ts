@@ -1,4 +1,4 @@
-console.log("hola")
+ console.log("hola")
 //Strings
 var myString ="texto"
 //myString = 5 |Error por tipado
